@@ -23,3 +23,4 @@ C:\Users\abhij\Desktop\CSharpApp\CSharpApp\obj\Debug\net8.0\refint\CSharpApp.dll
 C:\Users\abhij\Desktop\CSharpApp\CSharpApp\obj\Debug\net8.0\CSharpApp.pdb
 C:\Users\abhij\Desktop\CSharpApp\CSharpApp\obj\Debug\net8.0\CSharpApp.genruntimeconfig.cache
 C:\Users\abhij\Desktop\CSharpApp\CSharpApp\obj\Debug\net8.0\ref\CSharpApp.dll
+C:\Users\abhij\Desktop\CSharpApp\CSharpApp\obj\Debug\net8.0\CSharpApp.sourcelink.json

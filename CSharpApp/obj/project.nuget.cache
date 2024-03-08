@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "GSr8fyb6o+1+ystYTe1veTaYuFb5YcNajkDI0JGlOBy8C9jaEBiNpbYFoaNr5C146+Lx9yKIwFylYgma8KKDFQ==",
+  "dgSpecHash": "DptNcmsm/ima3CEmchHKa9slubN+vu5FGD+oEXx9N8LgW6urW6+fnTxzGe+bg0sAIQ526+x1dV/QIPxfbURO1g==",
   "success": true,
   "projectFilePath": "C:\\Users\\abhij\\Desktop\\CSharpApp\\CSharpApp\\CSharpApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\abhij\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\abhij\\.nuget\\packages\\minimalapis.extensions\\0.11.0\\minimalapis.extensions.0.11.0.nupkg.sha512",
+    "C:\\Users\\abhij\\.nuget\\packages\\minivalidation\\0.8.0\\minivalidation.0.8.0.nupkg.sha512"
+  ],
   "logs": []
 }
