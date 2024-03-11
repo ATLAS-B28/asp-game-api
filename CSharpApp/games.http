@@ -1,7 +1,7 @@
 GET http://localhost:5203/games
 ####
 
-GET http://localhost:5203/games/2
+GET http://localhost:5203/games/3
 
 ###
 
@@ -9,20 +9,20 @@ POST http://localhost:5203/games
 Content-Type: application/json
 
 {
-    "name": "Minecraft",
-    "genre": "Comfort",
-    "price": 21.98,
-    "releaseDate": "2011-11-18"
+     "name": "Street Fighter II",
+    "genreId": 1,
+    "price": 19.99,
+    "releaseDate": "1992-07-15"
 }
 
 ###
 
-PUT http://localhost:5203/games/1
+PUT http://localhost:5203/games/4
 Content-Type: application/json
 
 {
     "name": "Street Fighter II Turbo",
-    "genre": "Fighting",
+    "genreId": "Fighting",
     "price": 19.99,
     "releaseDate": "1992-07-15"
 }
